@@ -1,4 +1,7 @@
 # Social and asocial learning in zebrafish are encoded by a shared brain network that is differentially modulated by local activation
+[![DOI](https://zenodo.org/badge/615195451.svg)](https://zenodo.org/badge/latestdoi/615195451)
+
+
 by Júlia Pinho, Vincent Cunliffe, Kyriakos Kareklas, Giovanni Petri, Rui F. Oliveira 
 
 Code to reproduce the network analysis in the paper. 
